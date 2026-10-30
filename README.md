@@ -48,6 +48,10 @@ for questions and suggestions.
 You can follow the [Install guide](docs/INSTALL.md) and the [configuration
 documentation](docs/config.md).
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Cozy%20Cloud/)
+
 
 ## How to contribute?
 
